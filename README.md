@@ -20,7 +20,7 @@ ________________________________________
 •	Teamwork, time management, and adaptability
 ________________________________________
 🔍 My Focus
-To bring value to businesses by delivering clear, data-informed insights that empower decision-makers, streamline operations, and improve outcomes.
+ is to bring value to businesses by delivering clear, data-informed insights that empower decision-makers, streamline operations, and improve outcomes.
 ________________________________________
 
 - 📫 How to reach me ...
