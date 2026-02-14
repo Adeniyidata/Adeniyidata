@@ -1,7 +1,7 @@
 
 👋Hi, I’m Adeniyi Anifowoshe Adeyemi, a results-driven Data Analyst/Business Intelligence Analyst with over five years of experience in Data collection, cleaning, validation, Modelling, trend analysis, KPI monitoring, performance measurement, data visualization & Reporting ,storytelling, collaboration, supported by a B.Sc. in Economics. My analytical career encompasses high-impact Monitoring and Evaluation (M&E) projects for global institutions, including the World Bank, the European Union, and the Federal Government of Nigeria. Through my insights, I provided valuable contributions to policy recommendations and achieved a 25% reduction in data collection time by streamlining processes.
  As a Master Data Analyst/Business Intelligence Analyst, I have developed over 10 interactive dashboards across Power BI, Tableau, and Excel, resulting in a 30% reduction in manual reporting time, a 20% increase in decision-making speed, and a $160,000 revenue boost from pricing optimization analysis.
-I am Currently working working as a Sales & Marketing Data Analyst.
+I am Currently working working as a Data Analyst – Sales, Marketing, Customer & Retail Analytics | BI Analyst .
 
 👀 **I specialize in:**
 •	Driving KPI reporting accuracy and relevance for executive decision-making.
@@ -30,7 +30,7 @@ ________________________________________
 
 ________________________________________
 🔍 **My Focus**
-             Is to bring value to businesses by delivering clear, data-informed insights that empower decision-makers, streamline operations, and improve outcomes.
+             Is to bring value to startups, founders & businesses to drive growth with data-driven insights that empower decision-makers, streamline operations, and improve outcomes.
 ________________________________________
 
 - 📫 **How to reach me .**..
